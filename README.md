@@ -9,8 +9,10 @@ Entre no diretório do vagrant e digite "vagrant up", subistitua o arquivo Vagra
 
 # Linux:
 $ cd ~/Vagrant/
+
 $ vagrant up
 
 # Microsoft:
 Vá até o diretório de instalacao do Vagrant e entre com o comando:
+
 exemplo@Wart ~/Documents/Code/vagrant $ vagrant up
